@@ -5,7 +5,6 @@ import java.util.*;
  */
 public class UserLists {
 
-    //debug
     private List<String> allowedUsers = Arrays.asList("allowedUser1", "allowedUser2", "allowedUser3");
     private Set<PokerPlayer> currentPokerPlayers;
     private PokerPlayer mainUser = null;
